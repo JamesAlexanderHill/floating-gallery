@@ -17,6 +17,7 @@ To include this in your own website/project you can either:
 </div>
 ```
 change the containers width/height to manipulate the gallery.
+
 3. add as many images as you want
 Layers - layer order is [3,2,1,0] (top->bottom)
 anims - they are the same animation offset by 2 seconds. Just add the anim class randomly (anim1, anim2, anim3)
