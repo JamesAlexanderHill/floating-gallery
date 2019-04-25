@@ -22,7 +22,9 @@ change the containers width/height to manipulate the gallery.
 
 Layers - layer order is [3,2,1,0] (top->bottom)
 
-anims - they are the same animation offset by 2 seconds. Just add the anim class randomly (anim1, anim2, anim3)
+Animation - they are the same animation offset by 2 seconds. Just add the anim class randomly (anim1, anim2, anim3)
+
+Position - Change the percentage from top and left as x/y coordinates. By doing this you make sure it scales properly for different windows
 
 ```HTML
 <img class="floatingImg layer0 anim1" src="path/to/image.jpg" style="top: 5%; left: 5%;">
